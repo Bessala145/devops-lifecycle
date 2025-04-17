@@ -1,1 +1,1 @@
-
+# Pas de dépendances externes pour le moment
